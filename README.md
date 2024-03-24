@@ -8,8 +8,8 @@ Data in the form of Indonesian language news content with keywords related to th
 3. kompas.com,
 4. cnnindonesia.com
 
-Time period: August to October 2023.
-Data retrieval: Scraping process using Python and web scraper application, Octoparse.
+**Time period:** August to October 2023\
+**Data retrieval:** Scraping process using Python and web scraper application, Octoparse.
 
 ## Steps:
 ![alt text](https://github.com/aissaputrip/Election_Hoax_News_Classifier/blob/main/images/alur_penelitian.png?raw=true)
