@@ -1,5 +1,5 @@
 # Election Hoax News Classifier
-Classification of election-related hoax news using Bidirectional Long Short Term Memory (BiLSTM) and FastText Embedding, with unbalanced class handling using Borderline-SMOTE. 
+Classification of election-related hoax news using Bidirectional Long Short Term Memory (BiLSTM) and FastText Embedding, with imbalanced class handling using Borderline-SMOTE. 
 
 *This research was conducted as part of the completion of the bachelor's program in Statistics, the Faculty of Mathematics and Natural Sciences at Padjadjaran University*
 
